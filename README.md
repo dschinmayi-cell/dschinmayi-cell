@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm D S Chinmayi
 
 <!--
-**dschinmayi-cell/dschinmayi-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dschinmayi/dschinmayi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
